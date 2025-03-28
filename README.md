@@ -1,23 +1,72 @@
-**Welcome to My GitHub Profile**
+# 👨‍💻 **Jarred Thomas - Cloud Engineer & Solutions Architect**
+
+Welcome to my GitHub profile! I am Jarred Thomas, a highly skilled Cloud Engineer and Solutions Architect with a passion for optimising cloud infrastructures, automating complex workflows, and delivering scalable, high-performance solutions. My goal is to solve real-world challenges by leveraging cutting-edge cloud technologies, automation, and best practices to drive efficiency and innovation.
+
+I have a strong background in cloud engineering, network design, and enterprise-level database management, with hands-on experience in architecting solutions on AWS, Azure, and GCP.
+
+## 📂 **Featured Projects**
+
+Below are some of my standout projects, each one showcasing my technical expertise in cloud solutions, automation, database management, network design, and more:
+
+### 1. [**GRAND Cloud Resume Challenge (Advanced)**](https://github.com/JThomas404/Cloud-Resume-Challenge) *(In Progress, Completion Expected: Q3 2025)*  
+   - **Overview**: Developing an advanced cloud engineering resume that integrates real-time AWS solutions, CI/CD pipelines, and cloud infrastructure to demonstrate a comprehensive understanding of the cloud engineering lifecycle.  
+   - **Key Focus Areas**: AWS, Cloud Automation, Infrastructure as Code, CI/CD, DevOps  
+   - **Status**: Actively working on automating deployment pipelines and creating an interactive portfolio hosted on AWS.
+
+### 2. [**SAP HANA Professional Portfolio**](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio)  
+   - **Overview**: Showcasing real-world SAP HANA projects I’ve worked on at Seidor Networks, including enterprise-level solutions and SAP HANA database management, optimisation, and migration.  
+   - **Key Focus Areas**: SAP HANA, Database Management, Enterprise Solutions, Cloud Architecture  
+   - **Status**: In progress. Check back soon for updates on the latest SAP HANA enterprise projects.
+
+### 3. [**SQL Server Backup & Maintenance Automation**](https://github.com/JThomas404/SQL-Maintenance-Plan-Project)  
+   - **Overview**: Automated SQL Server backup management for a large enterprise, resolving critical disk issues and ensuring 100% backup success. This project is focused on optimising SQL backups, reducing downtime, and ensuring business continuity.  
+   - **Key Focus Areas**: SQL Server, PowerShell, Cloud Backups, Automation  
+   - **Status**: Completed. Successfully implemented automated backups using PowerShell scripts.
+
+### 4. [**Albion University’s Network Design**](https://github.com/JThomas404/Albion-University-s-Digital-Infrastructure-A-Network-Design-)  
+   - **Overview**: Designed a scalable, secure, and efficient network architecture for Albion University. The solution optimised administration, academic functions, and IT infrastructure using advanced routing protocols and VLAN segmentation.  
+   - **Key Focus Areas**: Network Design, Routing, VLAN, Security, Cisco Packet Tracer  
+   - **Status**: Completed. Network model designed and optimised for university infrastructure.
+
+## 🛠️ **Key Skills & Technologies**
+
+I specialise in cloud solutions, automation, database management, and network design. Here are the core technologies and tools I work with:
+
+- **Cloud Platforms**: AWS, Azure, GCP  
+- **Automation & Infrastructure Tools**: Terraform, AWS CLI, Docker, GitHub Actions  
+- **Languages**: Python, Bash, SQL  
+- **Database Management**: SQL Server, SAP HANA, DynamoDB, RDS  
+- **Networking & Security**: VLAN, Routing, Subnetting, Cisco Packet Tracer  
+- **Version Control**: Git, GitHub Actions
+
+## 🎓 **Certifications and Achievements**
+
+- **AWS Certified Solutions Architect – Associate** (Completed)  
+- **CCNA Cisco Certified Network Associate** (Completed)  
+- **3+ years of experience working in cloud infrastructure, automation, and network engineering**  
+- **Experienced with Terraform, Git, AWS, Python, Docker, AWS cloud services, Windows, Linux, Bash, Automation**
+
+## 🚀 **My Journey**
+
+I have been passionate about cloud technologies and automation since my first role as a Cloud Solutions Engineer at **Lorge Technologies**. In this position, I helped set up and maintain on-premise network infrastructure, as well as optimise system performance. My experience with cloud computing grew as I moved to **Angamma**, where I took on more complex challenges in a more advanced position as a network engineering consultant.
+
+Currently, as a **Cloud Engineer & Solutions Architect** at **Seidor Networks**, my work revolves around optimising AWS, Azure, and Huawei cloud servers, SAP HANA databases, NOC monitoring, and building scalable cloud architectures. I thrive on solving complex infrastructure challenges and creating solutions that drive business value.
+
+## 📬 **Get in Touch**
+
+- **Email**: [jarredthomas101@gmail.com](mailto:jarredthomas101@gmail.com)  
+- **LinkedIn**: [Jarred Thomas on LinkedIn](https://www.linkedin.com/in/jarred-thomas)  
+- **GitHub**: [JThomas404 on GitHub](https://github.com/JThomas404)
+
+## 📚 **Professional Resources**
+
+- **Resume / CV**: [Download my Resume](link-to-your-resume) *(will update soon)*  
+- **Website/Portfolio**: [Visit my Portfolio](link-to-your-website) *(will update soon)*
+
 ---
-**About Me**
----
-My name is Jarred, and I am a South African with a deep passion for technology. From a young age, I embraced my role as the family's go-to "problem solver," whether it was fixing the TV or optimising the home Wi-Fi router. This problem-solving passion shaped my identity and led me to a career in technology.
 
-At 18, fresh out of high school and with no prior IT experience, I embarked on an internship at Lorge Consulting Services. There, I gained hands-on experience with VoIP phones, user PC setups, server configurations, and troubleshooting Cisco routers, switches, and APs.
+### 🚧 **Currently Building**
 
-Today, I am dedicated to refining my skills as a network engineer and find joy in troubleshooting and fixing computer networks. I continually enhance my knowledge through platforms like LinkedIn Learning and Udemy, and through hands-on labs such as NetSim and my home lab. These experiences have been crucial in honing my problem-solving abilities.
+I am actively working on several advanced cloud engineering projects, including the **GRAND Cloud Resume Challenge** and a new **Cloud Infrastructure Automation** tool. Stay tuned for updates!
 
-My journey has led me to become a Cisco Certified Network Associate, specialising in Local Area Networks (LAN) and routing and switching protocols. My natural problem-solving skills align seamlessly with the complexities of network engineering, allowing me to address and resolve issues with precision.
-
-Now, I am expanding my expertise by pursuing a career as an AWS Cloud Engineer. I showcase all my labs, code, projects, and hands-on experience on my GitHub profile, including network engineering labs and cloud computing projects. This reflects my ongoing commitment to learning and growth, as well as my excitement about the dynamic field of technology, where each challenge is a puzzle waiting to be solved and each solution a step forward.
-
-
-**What You’ll Find Here**
----
-**Labs and Hands-On Experience:** Detailed documentation and results from various network engineering labs, including simulations and real-world applications.
-
-**Code and Projects:** A collection of code and projects showcasing my skills in network configuration, troubleshooting, and cloud computing.
-
-**Cloud Computing:** Insights and hands-on projects related to my ongoing pursuit as an AWS Cloud Engineer, highlighting my work with cloud technologies.
-
+--- 
