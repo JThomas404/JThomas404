@@ -49,7 +49,7 @@ I specialise in cloud solutions, automation, database management, and network de
 - **AWS Certified Solutions Architect – Associate** (Completed)  
 - **CCNA Cisco Certified Network Associate** (Completed)   
 - **3+ years of experience working in cloud infrastructure, automation, and network engineering**  
-- **Experienced with Terraform, Git, AWS, Python, Docker, AWS cloud services, windows, Linux, Bash, Automation**
+- **Experienced with Terraform, Git, AWS, Python, Docker, AWS Cloud Services, Windows, Linux, Bash, Automation**
 
 ## 🚀 **My Journey**
 
