@@ -1,20 +1,20 @@
 # 👨‍💻 **Jarred Thomas - Cloud Engineer & Solutions Architect**
 
-Welcome to my GitHub profile! I am Jarred Thomas, a highly skilled Cloud Engineer and Solutions Architect with a passion for optimising cloud infrastructures, automating complex workflows, and delivering scalable, high-performance solutions. My goal is to solve real-world challenges by leveraging cutting-edge cloud technologies, automation, and best practices to drive efficiency and innovation.
+Welcome to my GitHub profile! I am Jarred Thomas, a Cloud Engineer with a passion for optimising cloud infrastructures, automating complex workflows, and delivering scalable, high-performance solutions. My goal is to solve real-world challenges by leveraging cutting-edge cloud technologies, automation, and best practices to drive efficiency and innovation.
 
 I have a strong background in cloud engineering, network design, and enterprise-level database management, with hands-on experience in architecting solutions on AWS, Azure, SAP HANA and Lemongrass.
 
 ## 📂 **Featured Projects**
 
-Below are some of my standout projects. Each one highlights my technical expertise in cloud solutions, automation, database management, network design, and more:
+Below are some of my standout projects:
 
-### 1. [**GRAND Cloud Resume Challenge (Advanced)**](https://github.com/JThomas404/Cloud-Resume-Challenge) *(In Progress, Completion Expected: Q3 2025)*  
+### 1. [**The GRAND Cloud Resume Challenge (With Advanced Features Implemented)**](https://github.com/JThomas404/) *(Currently In Progress, Completion Expected: Q3 2025)*  
    - **Overview**: Developing an advanced cloud engineering resume that integrates real-time AWS solutions, CI/CD pipelines, and cloud infrastructure to demonstrate a comprehensive understanding of the cloud engineering lifecycle.  
    - **Key Focus Areas**: AWS, Cloud Automation, Infrastructure as Code, CI/CD, DevOps  
    - **Status**: Actively working on automating deployment pipelines, creating an interactive portfolio hosted on AWS.
 
 ### 2. [**SAP HANA Professional Portfolio**](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio)  
-   - **Overview**: Showcases real-world SAP HANA projects I’ve worked on at Seidor Networks, including enterprise-level solutions and SAP HANA database management, optimisation, and migration.  
+   - **Overview**: Showcases real-world SAP HANA projects I’ve worked on at Seidor Networks, including SAP HANA database management, optimisation, and migration.  
    - **Key Focus Areas**: SAP HANA, Database Management, Enterprise Solutions, Cloud Architecture  
    - **Status**: In progress. Check back soon for updates on the latest SAP HANA enterprise projects.
 
@@ -29,7 +29,7 @@ Below are some of my standout projects. Each one highlights my technical experti
    - **Status**: Completed. Network model designed and optimised for university infrastructure.
 
 ### 5. [**AWS Cost Monitoring Script**](https://github.com/JThomas404/AWS-Cost-Monitoring-Script)  
-   - **Overview**: This shell script automates the process of monitoring AWS resources to help identify potential areas of cost savings. The script provides a straightforward approach to reviewing resource utilisation, helping AWS users optimise their usage in a simple manner.  
+   - **Overview**: This Bash script automates the process of monitoring AWS resources to help identify potential areas of cost savings. The script provides a straightforward approach to reviewing resource utilisation, helping AWS users optimise their usage in a simple manner.  
    - **Key Focus Areas**: AWS, Bash, Cost Optimisation, Resource Monitoring  
    - **Status**: Completed. The script fetches data about EC2 instances, EBS volumes, and provides a simple report highlighting underutilised or inactive resources to help with cost-saving efforts.
 
@@ -61,7 +61,6 @@ Currently, as a **Cloud Engineer & Solutions Architect** at **Seidor Networks**,
 
 - **Email**: [jarredthomas101@gmail.com](mailto:jarredthomas101@gmail.com)  
 - **LinkedIn**: [Jarred Thomas on LinkedIn](https://www.linkedin.com/in/jarred-thomas)  
-- **GitHub**: [JThomas404 on GitHub](https://github.com/JThomas404)
 
 ## 📚 **Professional Resources**
 
