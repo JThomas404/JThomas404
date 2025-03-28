@@ -8,7 +8,7 @@ I have a strong background in cloud engineering, network design, and enterprise-
 
 Below are some of my standout projects, each one showcasing my technical expertise in cloud solutions, automation, database management, network design, and more:
 
-### 1. [**GRAND Cloud Resume Challenge (Advanced)**](https://github.com/JThomas404/Cloud-Resume-Challenge) *(In Progress, Completion Expected: Q3 2025)*  
+### 1. [**GRAND Cloud Resume Challenge (Advanced)**](https://github.com/JThomas404/) *(In Progress, Completion Expected: Q3 2025)*  
    - **Overview**: Developing an advanced cloud engineering resume that integrates real-time AWS solutions, CI/CD pipelines, and cloud infrastructure to demonstrate a comprehensive understanding of the cloud engineering lifecycle.  
    - **Key Focus Areas**: AWS, Cloud Automation, Infrastructure as Code, CI/CD, DevOps  
    - **Status**: Actively working on automating deployment pipelines and creating an interactive portfolio hosted on AWS.
