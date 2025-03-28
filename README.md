@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am Jarred Thomas, a highly skilled Cloud Engineer and Solutions Architect with a passion for optimising cloud infrastructures, automating complex workflows, and delivering scalable, high-performance solutions. My goal is to solve real-world challenges by leveraging cutting-edge cloud technologies, automation, and best practices to drive efficiency and innovation.
 
-I have a strong background in cloud engineering, network design, and enterprise-level database management, with hands-on experience in architecting solutions on AWS, Azure, and GCP.
+I have a strong background in cloud engineering, network design, and enterprise-level database management, with hands-on experience in architecting solutions on AWS, Lemongrass, and Azure Cloud.
 
 ## 📂 **Featured Projects**
 
