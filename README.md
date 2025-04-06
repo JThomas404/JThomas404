@@ -1,4 +1,4 @@
-# 👨‍💻 **Jarred Thomas - Cloud Engineer & Solutions Architect**
+# **Jarred Thomas - Cloud Engineer & Solutions Architect**
 
 Welcome to my GitHub profile! I am Jarred Thomas, a Cloud Engineer with a passion for optimising cloud infrastructures, automating complex workflows, and delivering scalable, high-performance solutions. My goal is to solve real-world challenges by leveraging cutting-edge cloud technologies, automation, and best practices to drive efficiency and innovation.
 
