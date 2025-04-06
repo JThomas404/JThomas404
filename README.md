@@ -16,7 +16,7 @@ Below are some of my standout projects:
 ### 2. [**SAP HANA Professional Portfolio**](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio)  
    - **Overview**: Showcases real-world SAP HANA projects I’ve worked on at SEIDOR Networks, including SAP HANA database management, optimisation, and migration.  
    - **Key Focus Areas**: SAP HANA, Database Management, Enterprise Solutions, Cloud Architecture  
-   - **Status**: In progress. Check back soon for updates on the latest SAP HANA enterprise projects.
+   - **Status:** Completed. Check out the latest SAP HANA enterprise projects now available.
 
 ### 3. [**SQL Server Backup & Maintenance Automation**](https://github.com/JThomas404/SQL-Maintenance-Plan-Project)  
    - **Overview**: Automated SQL Server backup management for a large enterprise, resolving critical disk issues and ensuring 100% backup success. This project is focused on optimising SQL backups, reducing downtime, and ensuring business continuity.  
