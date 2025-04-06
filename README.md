@@ -14,7 +14,7 @@ Below are some of my standout projects:
    - **Status**: Actively working on automating deployment pipelines, creating an interactive portfolio hosted on AWS.
 
 ### 2. [**SAP HANA Professional Portfolio**](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio)  
-   - **Overview**: Showcases real-world SAP HANA projects I’ve worked on at Seidor Networks, including SAP HANA database management, optimisation, and migration.  
+   - **Overview**: Showcases real-world SAP HANA projects I’ve worked on at SEIDOR Networks, including SAP HANA database management, optimisation, and migration.  
    - **Key Focus Areas**: SAP HANA, Database Management, Enterprise Solutions, Cloud Architecture  
    - **Status**: In progress. Check back soon for updates on the latest SAP HANA enterprise projects.
 
@@ -55,7 +55,7 @@ I specialise in cloud solutions, automation, database management, and network de
 
 I have been passionate about cloud technologies and automation since my first role as a Cloud Solutions Engineer at **Lorge Technologies**. In this position, I helped set up and maintain the on-premise network infrastructure, as well as optimise system performance. My experience with cloud computing grew as I moved to **Angamma**, where I took on more complex challenges, in a more advanced position as a network engineering consultant.
 
-Currently, as a **Cloud Engineer & Solutions Architect** at **Seidor Networks**, my work revolves around optimising AWS, Azure, and Huawei cloud servers, SAP HANA databases, NOC monitoring, and building scalable cloud architectures. I thrive on solving complex infrastructure challenges and creating solutions that drive business value.
+Currently, as a Cloud Engineer & Solutions Architect at SEIDOR Networks, a company with **1,932+** customers worldwide, my work revolves around optimising AWS, Azure, and Huawei cloud servers, SAP HANA databases, NOC monitoring, and building scalable cloud architectures. I thrive on solving complex infrastructure challenges and creating solutions that drive business value.
 
 ## 📬 **Get in Touch**
 
