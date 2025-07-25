@@ -2,7 +2,7 @@
 
 ## About Me
 
-Cloud Engineer based in Johannesburg, South Africa, specializing in serverless architectures and cloud-native solutions. I started my tech journey in 2022 and currently work as a Remote Tier 1 Technical Support Engineer at SEIDOR Networks.
+Cloud Engineer based in Johannesburg, South Africa, specialising in serverless architectures and cloud-native solutions. I started my tech journey in 2022 and currently work as a Remote Tier 1 Technical Support Engineer at SEIDOR Networks.
 
 ## Featured Projects
 
