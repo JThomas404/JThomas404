@@ -2,7 +2,7 @@
 
 ## About Me
 
-Cloud Engineer based in Johannesburg, South Africa, specialising in serverless architectures and cloud-native solutions. I started my tech journey in 2022 and currently work as a Remote Tier 1 Technical Support Engineer at SEIDOR Networks.
+Cloud Engineer based in Johannesburg, South Africa, specialising in serverless architectures and cloud-native solutions. I started my tech journey in 2022 and currently work as a Cloud DevOps Engineer.
 
 ## Featured Projects
 
@@ -66,13 +66,13 @@ Secure FastAPI app with CI/CD and RBAC, containerised with Docker and deployed o
 - Microsoft Certified: Power Platform Fundamentals (PL-900)
 - Python Programming for AWS (Boto3)
 - Docker Mastery
-- Terraform Associate Hands-On Labs
+- Terraform Associate
 - Mimecast Email Security Cloud Gateway Fundamentals
 - Linux Foundation Certified Systems Administrator (In Progress)
 
 ## My Journey
 
-My career in cloud engineering began in 2022. I've worked across various roles including IT Helpdesk Specialist, Junior Network/System Administrator, Junior Sage X3 Developer, Network Engineering Consultant, and currently as a Remote Tier 1 Technical Support Engineer.
+My career in cloud engineering began in 2022. I've worked across various roles including IT Helpdesk Specialist, Junior Network/System Administrator, Junior Sage X3 Developer, Network Engineering Consultant, and currently as a Cloud DevOps Engineer.
 
 I'm self-taught through certifications and practical work experience, with a focus on cloud computing, networking, security, and DevOps practices.
 
